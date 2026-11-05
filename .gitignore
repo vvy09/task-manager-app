@@ -1,0 +1,8 @@
+.metadata/
+API/target/
+UI/node_modules/
+UI/dist/
+UI/.angular/
+.idea/
+.vscode/
+*.iml

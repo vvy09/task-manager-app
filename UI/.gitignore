@@ -1,0 +1,19 @@
+# Java / Maven
+API/target/
+*.class
+
+# Angular / Node
+UI/node_modules/
+UI/dist/
+UI/.angular/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.metadata/
